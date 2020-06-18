@@ -1,0 +1,7 @@
+C:\Users\vinchi\Desktop\прога\ооп4\сп_хеал\Health\Health\bin\Debug\Health.exe.config
+C:\Users\vinchi\Desktop\прога\ооп4\сп_хеал\Health\Health\bin\Debug\Health.exe
+C:\Users\vinchi\Desktop\прога\ооп4\сп_хеал\Health\Health\bin\Debug\Health.pdb
+C:\Users\vinchi\Desktop\прога\ооп4\сп_хеал\Health\Health\obj\Debug\Health.csprojAssemblyReference.cache
+C:\Users\vinchi\Desktop\прога\ооп4\сп_хеал\Health\Health\obj\Debug\Health.csproj.CoreCompileInputs.cache
+C:\Users\vinchi\Desktop\прога\ооп4\сп_хеал\Health\Health\obj\Debug\Health.exe
+C:\Users\vinchi\Desktop\прога\ооп4\сп_хеал\Health\Health\obj\Debug\Health.pdb
